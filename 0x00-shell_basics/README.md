@@ -1,1 +1,2 @@
-My second readme file
+pwd - print current working directory
+ls - list files and directory
